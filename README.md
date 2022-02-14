@@ -30,3 +30,5 @@ You will then open up the folder you just cloned and then `cd` to the directory 
 
 # How to Play this Game!
 talk to the residence of your local fridge by entering the red squares near them. Move with WASD keys.
+Because of a little bug, you are required to either do `CTRL-C` on the terminal window, or just close the terminal window. Closing does not work normally.
+Have fun playing this very little game!
