@@ -18,8 +18,8 @@ on the command line. Our game requires at least python 3.8 or higher.
 
 ### Download the files
 
-#### GUI Way
-To download this game, you will click the `Code` button on the top right hand corner of the files. You will get a zip file. Save this to wherever you want to, and extract the zip file. Save the contents to a folder and run `main.py`.
+#### ~~GUI Way~~ NOT WORKING
+~~To download this game, you will click the `Code` button on the top right hand corner of the files. You will get a zip file. Save this to wherever you want to, and extract the zip file. Save the contents to a folder and run `main.py`.~~
 
 #### Terminal Way
 I see  you are a based terminal user! If so, open up your command line, `cd` into the folder you so desire to host the files, and then do
